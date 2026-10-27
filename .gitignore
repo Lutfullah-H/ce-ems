@@ -1,0 +1,5 @@
+# dont uploads employee image to remository
+
+assets/uploads/*
+
+!assets/uploads/.gitkeep
